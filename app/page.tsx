@@ -353,7 +353,7 @@ const [activeTestimonial, setActiveTestimonial] = useState<number>(0);
                   <div className="w-32 h-32 bg-gradient-to-br from-blue-400 to-purple-400 rounded-full mx-auto mb-4 flex items-center justify-center">
                     <div className="w-full h-full rounded-full bg-gray-80f0 overflow-hidden">
     <img 
-  src="/haseeb-portfolio/1.jpg" 
+  src="./1.jpg" 
   alt="Haseeb Yousaf - Profile Photo" 
   className="w-full h-full object-cover rounded-full"
 />
